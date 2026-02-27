@@ -1,4 +1,4 @@
-# Windows Desktop Widget - Time Journey
+# Windows Desktop Widget
 
 A sleek, borderless, and transparent Windows desktop widget built with Electron. It displays a visual timeline from February 1st, 2026 to January 31st, 2028, tracking past days, highlighting the current day with a pulsing animation, and showing remaining days. 
 
