@@ -19,8 +19,8 @@ To run or build this widget from the source code, you must have:
 
 1. **Clone the repository** (or download the ZIP and extract it):
    ```bash
-   git clone <your-github-repo-url>
-   cd <your-repo-folder-name>
+   git clone https://github.com/sa1Kr15hna/stemcountdown.git
+   cd stemcountdown
    ```
 
 2. **Install dependencies**:
